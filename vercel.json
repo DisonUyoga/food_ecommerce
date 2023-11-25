@@ -1,0 +1,32 @@
+{
+  "routes":[
+    {
+      "src":"/",
+      "dest":"/"
+    },
+    {
+      "src":"/cart",
+      "dest":"/"
+    },
+    {
+      "src":"/login",
+      "dest":"/"
+    },
+    {
+      "src":"/signup",
+      "dest":"/"
+    },
+    {
+      "src":"/foods",
+      "dest":"/"
+    },
+    {
+      "src":"/foods/:id",
+      "dest":"/foods"
+    },
+    {
+      "src":"/checkout",
+      "dest":"/"
+    }
+  ]
+}
